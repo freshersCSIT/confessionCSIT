@@ -6,17 +6,17 @@
 }
 
 body {
-    background:
-                url('bg.jpg') center/cover no-repeat; /* Local image path */
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center; /* Center content vertically */
-    height: 100vh;
-    margin: 0; /* Remove default margin */
-}
+            background: linear-gradient(to bottom right, rgba(255, 255, 255, 0.95), rgba(245, 245, 245, 0.95)),
+                        url('https://www.transparenttextures.com/patterns/paper.png') center/cover no-repeat; /* Paper texture */
+            font-family: 'Arial', sans-serif;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center; /* Center content vertically */
+            height: 100vh;
+            margin: 0; /* Remove default margin */
+        }
 
 
 
