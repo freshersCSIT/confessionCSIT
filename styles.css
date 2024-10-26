@@ -152,7 +152,7 @@ footer a:hover {
 
 @media (max-width: 480px) {
      body {
-        background-image: url('bg4.png'); /* Change background for small screens */
+        background-image: url('animemobile.jpg'); /* Change background for small screens */
     }
     h1 {
         font-size: 1.5em;
