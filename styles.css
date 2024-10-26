@@ -128,6 +128,9 @@ footer a:hover {
 
 /* Responsive styles */
 @media (max-width: 768px) {
+     body {
+        background-image: url('bg3.jpg'); /* Change background for small screens */
+    }
     h1 {
         font-size: 1.8em;
     }
@@ -142,6 +145,9 @@ footer a:hover {
 }
 
 @media (max-width: 480px) {
+     body {
+        background-image: url('bg4.png'); /* Change background for small screens */
+    }
     h1 {
         font-size: 1.5em;
     }
