@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('cs1.jpg');
+    background-image: url('bg3.jpg');
     background-size: cover; /* Cover the entire area */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent repeating */
@@ -132,7 +132,7 @@ footer a:hover {
 /* Responsive styles */
 @media (max-width: 768px) {
      body {
-        background-image: url('cs1.jpg'); /* Change background for small screens */
+        background-image: url('bg3.jpg'); /* Change background for small screens */
     }
     h1 {
         font-size: 1.8em;
