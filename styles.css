@@ -82,7 +82,7 @@ textarea:focus {
 }
 
 button {
-    background: linear-gradient(to right, #eae9ee, #8e44ad); /* Purple to pink gradient */
+  background: linear-gradient(to right, #6a329a, #ff439b); /* Slightly darker gradient on hover *//
     color: white;
     border: none;
     padding: 12px 18px;
@@ -94,7 +94,7 @@ button {
 }
 
 button:hover {
-    background: linear-gradient(to right, #6a329a, #ff439b); /* Slightly darker gradient on hover */
+     background: linear-gradient(to right, #eae9ee, #8e44ad); /* Purple to pink gradient */
 }
 
 
