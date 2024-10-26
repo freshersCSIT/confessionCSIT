@@ -135,7 +135,7 @@ footer a:hover {
 /* Responsive styles */
 @media (max-width: 768px) {
      body {
-        background-image: url('bg3.jpg'); /* Change background for small screens */
+        background-image: url('animedesk.jpg'); /* Change background for small screens */
     }
     h1 {
         font-size: 1.8em;
