@@ -82,7 +82,7 @@ textarea:focus {
 }
 
 button {
-    background: linear-gradient(to right, #8e44ad, #ff69b4); /* Purple to pink gradient */
+    background: linear-gradient(to right, #8e44ad, #eae9ee); /* Purple to pink gradient */
     color: white;
     border: none;
     padding: 12px 18px;
