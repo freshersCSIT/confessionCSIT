@@ -6,7 +6,10 @@
 }
 
 body {
-    background:url('cs1.jpg') center/cover no-repeat; /* Example paper texture URL */
+    background-image: url('cs1.jpg');
+    background-size: cover; /* Cover the entire area */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent repeating */
     font-family: 'Arial', sans-serif;
     color: #fff;
     display: flex;
